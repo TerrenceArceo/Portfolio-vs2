@@ -154,7 +154,7 @@ header {
 
 .hamburger {
     display: block;
-    position: relative;
+    position: relative
 }
 
 .hamburger,
@@ -203,6 +203,7 @@ header h1 {
 header p {
     font-size: 2rem;
     color: var(--main-clr);
+    letter-spacing: 4px;
 }
 
 /*    
