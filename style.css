@@ -502,6 +502,7 @@ header p {
 .footer {
     background-color: var(--accent-bg);
     padding: 4em;
+    margin-top: 4em;
 }
 
 .footer--images {
